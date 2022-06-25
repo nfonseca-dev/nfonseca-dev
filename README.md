@@ -1,10 +1,6 @@
 # Hello, World! I'm SirNaelC7. 
 ![](https://komarev.com/ghpvc/?username=devSirNaelC7&style=flat-square)
 
-##
-
-# Welcome to my profile!
-
 
 ### About Me 
   
