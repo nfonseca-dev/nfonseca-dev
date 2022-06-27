@@ -1,8 +1,8 @@
 <h1> Hello, World! I'm SirNaelC7.</h1> 
 
-<div>
-  ![](https://komarev.com/ghpvc/?username=devSirNaelC7&style=flat-square)
-</div>
+
+![](https://komarev.com/ghpvc/?username=devSirNaelC7&style=flat-square)
+
 
 ###
 
