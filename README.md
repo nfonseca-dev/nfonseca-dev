@@ -1,17 +1,15 @@
-# Hello, World! I'm SirNaelC7. 
+<h1> Hello, World! I'm SirNaelC7.</h1> 
 ![](https://komarev.com/ghpvc/?username=devSirNaelC7&style=flat-square)
 
 ###
 
-### About Me 
-  
-*   🌍  I'm based in Açu/RN
-*   🧠  I’m currently learning Javascript, Typescript, ReactJS, NextJS
-*   💬 Ask me about Python
+<h2> About Me</h2> 
+
+<p align="left">🌍  I'm based in Açu/RN<br>📚🧠  I’m currently learning Javascript, Typescript, ReactJS, NextJS<br> 💬 Ask me about Python<br></p>
 
 ###
 
-### Skills 
+<h2> I code with</h2> 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="60" alt="python logo"  />
@@ -29,8 +27,7 @@
 
 ###
 
-### Social Medias
-
+<h2> Social Medias</h2>
 
 <div align="left">
   <a href="https://www.instagram.com/devsirnaelc7/" target="_blank">
@@ -46,7 +43,6 @@
 
 ###
 
-
 <p align="center">
   <a href="https://github.com/devSirNaelC7">
       <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=devSirNaelC7&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=fff"/>
@@ -55,5 +51,3 @@
     
   </a>
 </p>
-
-         
