@@ -8,7 +8,7 @@
 
 <h2> About Me</h2> 
 
-<p align="left">🌍  I'm based in Açu/RN<br>📚🧠  I’m currently learning Javascript, Typescript, ReactJS, NextJS<br> 💬 Ask me about Python<br></p>
+<p align="left">🌍  I'm based in Açu/RN<br>📚  I’m currently learning Javascript, Typescript, ReactJS, NextJS<br> 💬 Ask me about Python<br></p>
 
 ###
 
