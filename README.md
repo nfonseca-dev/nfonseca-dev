@@ -48,8 +48,6 @@
 
 <p align="center">
   <a href="https://github.com/devSirNaelC7">
-      <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=devSirNaelC7&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=fff"/>
-      <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSirNaelC7&layout=compact&langs_count=5&theme=dark"/>
       <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=devSirNaelC7&theme=dark" />
     
   </a>
