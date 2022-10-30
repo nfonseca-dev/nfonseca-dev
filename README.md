@@ -12,7 +12,7 @@
 
 ###
 
-<h2> I code with</h2> 
+<h2> I develop with</h2> 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="60" alt="python logo"  />
