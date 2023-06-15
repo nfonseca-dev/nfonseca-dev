@@ -47,8 +47,5 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/devSirNaelC7">
-      <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=devSirNaelC7&theme=dark" />
-    
-  </a>
+  <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=devSirNaelC7&theme=dark" />
 </p>
