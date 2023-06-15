@@ -46,6 +46,7 @@
 
 ###
 
+<h2>Github Stats</h2>
 
 <div align="center">
     <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=devSirNaelC7&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="devSirNaelC7" />
