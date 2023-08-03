@@ -33,9 +33,6 @@
 <h2> Social Medias</h2>
 
 <div align="left">
-  <a href="https://www.instagram.com/devsirnaelc7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="mailto:sirnaelc7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -45,11 +42,3 @@
 </div>
 
 ###
-
-<h2>Github Stats</h2>
-
-<div align="center">
-    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=devSirNaelC7&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="devSirNaelC7" />
-    <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=devSirNaelC7&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true" />
-</div>
-
